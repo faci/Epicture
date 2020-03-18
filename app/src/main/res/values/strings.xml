@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">test_epic</string>
+    <string name="title_activity_bottom_bar">bottom_bar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="permission_request_denied">Permission request denied</string>
+    <string name="title_post">Title</string>
+    <string name="desc_post">Description</string>
+    <string name="upload_post">Upload</string>
+    <string name="image_view">Image Post</string>
+
+    <string name="no_image">You should provide an image</string>
+    <string name="upload_ok">upload reussit</string>
+    <string name="no_internet">no internet connection</string>
+
+    <string name="notification_fail">Image failed to upload...</string>
+    <string name="notification_share_link">Share link</string>
+    <string name="notifaction_success">Successfully uploaded</string>
+    <string name="notification_progress">Uploading image...</string>
+    <string name="title_fav_profile">Favoris</string>
+    <string name="title_upload_image">Upload</string>
+</resources>
